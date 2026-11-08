@@ -1,0 +1,19 @@
+# 构建产物
+build/
+*.o
+*.obj
+*.exe
+*.out
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# 编辑器
+.vscode/
+.idea/
+
+# 图片（文档里的图保留）
+*.png
+!docs/*.png
